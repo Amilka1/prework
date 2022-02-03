@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Definitely adding color and different types of currency will improve the app. Also a night mode.
 
-## Video Walkthrough
+## Gif Walkthrough
 
 
 ![image](https://user-images.githubusercontent.com/87542495/152429743-10605d30-b8e1-4ad7-8b1f-2dbd96b62285.gif)
@@ -36,8 +36,6 @@ Definitely adding color and different types of currency will improve the app. Al
 I found getting started difficult as I doubted my ability to get this project done but once I started I found it really enjoyable.
 
 
-
-![image](https://user-images.githubusercontent.com/87542495/152429743-10605d30-b8e1-4ad7-8b1f-2dbd96b62285.gif)
 
 ## License
 
