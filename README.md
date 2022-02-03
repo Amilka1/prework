@@ -33,7 +33,7 @@ Definitely adding color and different types of currency will improve the app. Al
 
 ## Notes
 
-I found getting started difficult as I doubted my ability to get this project done but once I started I found it really enjoyable.
+I found getting started difficult as I doubted my ability to get this project done but once I started I found it really enjoyable. Honestly the hardest part was figuring out which file to upload to Github.
 
 
 
