@@ -24,17 +24,20 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+Definitely adding color and different types of currency will improve the app. Also a night mode.
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![image](https://user-images.githubusercontent.com/87542495/152429743-10605d30-b8e1-4ad7-8b1f-2dbd96b62285.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I found getting started difficult as I doubted my ability to get this project done but once I started I found it really enjoyable.
+
+
+
+![image](https://user-images.githubusercontent.com/87542495/152429743-10605d30-b8e1-4ad7-8b1f-2dbd96b62285.gif)
 
 ## License
 
